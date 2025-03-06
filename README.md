@@ -1,16 +1,26 @@
-# professional_chat
+# Chat App
 
-A new Flutter project.
+A Flutter-based chat application that enables real-time messaging between users.
+
+## Features
+
+- **Real-Time Messaging**: Facilitates instant communication between users.
+- **User Authentication**: Secure sign-up and login functionalities.
+- **User Profiles**: Manage user information and display profile details.
+- **Media Support**: Send and receive images, videos, and files.
+- **Push Notifications**: Receive alerts for new messages and updates.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart
+- A code editor (e.g., VSCode, IntelliJ)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/Meqabil/chat-app.git
