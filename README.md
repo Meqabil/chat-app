@@ -9,18 +9,13 @@ A Flutter-based chat application that enables real-time messaging between users.
 - **User Profiles**: Manage user information and display profile details.
 - **Media Support**: Send and receive images, videos, and files.
 - **Push Notifications**: Receive alerts for new messages and updates.
-
+- **Groups And Private Chats**: User can join groups and immerse in private chats
 ## Getting Started
 
 ### Prerequisites
 
 - Flutter SDK
 - Dart
-- A code editor (e.g., VSCode, IntelliJ)
+  
 
-### Installation
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/Meqabil/chat-app.git
